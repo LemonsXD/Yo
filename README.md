@@ -12,4 +12,4 @@
 11. npm i
 12. npm i got
 13. node index.js
-Tinggal scan :)
+Tinggal scan
